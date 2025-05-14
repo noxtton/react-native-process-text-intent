@@ -52,3 +52,7 @@ MIT
 ---
 
 Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+
+## Original Repo
+
+<https://github.com/numandev1/react-native-process-text-intent>
